@@ -1,0 +1,17 @@
+{
+    "authors": [
+        {
+            "email": "minottoemanuele@gmail.com",
+            "homepage": "http://rdir.io",
+            "name": "Emanuele Minotto"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rdir\\SimpleArrayBundle\\": "."
+        }
+    },
+    "description": "Symfony 2 bundle for simple tags management (doctrine2 simple_array type)",
+    "license": "MIT",
+    "name": "rdir/simple-array-bundle"
+}
