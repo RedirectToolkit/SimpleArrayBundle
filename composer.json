@@ -18,5 +18,8 @@
         }
     },
     "license": "MIT",
-    "name": "rdir/simple-array-bundle"
+    "name": "rdir/simple-array-bundle",
+    "suggest": {
+        "beberlei/DoctrineExtensions": "To use the MySQL FIND_IN_SET function"
+    }
 }
