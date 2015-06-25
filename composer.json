@@ -12,6 +12,11 @@
         }
     },
     "description": "Symfony 2 bundle for simple tags management (doctrine2 simple_array type)",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    },
     "license": "MIT",
     "name": "rdir/simple-array-bundle"
 }
