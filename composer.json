@@ -17,6 +17,14 @@
             "dev-master": "0.1.x-dev"
         }
     },
+    "require": {
+        "symfony/form": ">=2.5",
+        "symfony/dependency-injection": ">=2.5",
+        "symfony/doctrine-bridge": ">=2.5"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
     "license": "MIT",
     "name": "rdir/simple-array-bundle",
     "suggest": {
